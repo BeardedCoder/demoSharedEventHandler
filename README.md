@@ -1,4 +1,4 @@
-demoSharedEventHandler
+C#.NET: Demo of Shared Event Handler
 ======================
 
 Demo of multiple form controls sharing an event handler in C#.Net.
